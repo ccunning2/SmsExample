@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmsExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_send_sms">SendSmsActivity</string>
+    <string name="androidSMS">testSMS</string>
+
+</resources>
